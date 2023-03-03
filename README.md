@@ -8,8 +8,14 @@
 
 4.不定期持续更新
 
-5.润欧群：https://t.me/+1zVvy2dTY1FkY2Yx
+# 群
 
-   润日群：https://t.me/+6tS2VUnn0qc2Yzcx
+润欧群：https://t.me/+1zVvy2dTY1FkY2Yx
 
-   润澳群：https://t.me/+ZnoQ8DmXpFAwYzI1
+润日群：https://t.me/+6tS2VUnn0qc2Yzcx
+
+润澳群：https://t.me/+ZnoQ8DmXpFAwYzI1
+
+# 鸣谢
+
+感谢所有无私为本文档贡献内容的人，你们的开源精神我无以回报，唯有敬重！
